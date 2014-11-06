@@ -10,6 +10,7 @@ CDriver_Loader has methods to Load and Eject from the Windows Kernel.
 
 
 Usage Example
+---------------
 	CDriver_Loader* driver;
 	try 
 	{
