@@ -9,7 +9,7 @@ The class is used to Inject Drivers's / Rootkits into Windows Kernel.
 CDriver_Loader has methods to Load and Eject from the Windows Kernel.
 
 
-Usage Example
+Usage 
 ---------------
 	CDriver_Loader* driver;
 	try 
