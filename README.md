@@ -17,7 +17,7 @@ Usage
 		driver = new CDriver_Loader();
 		driver->InitSvc(L"c://rootkit.sys", L"driver", L"driver", SERVICE_DEMAND_START);
 		cout << "Driver Loaded!" << endl;
-
+ 
 		driver->CreateSvc();
 		cout << "Driver Created!" << endl;
 
