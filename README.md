@@ -20,7 +20,6 @@ Usage
  
 		driver->CreateSvc();
 		cout << "Driver Created!" << endl;
-
 		driver->StartSvc();
 		cout << "Driver Started!" << endl;
 
